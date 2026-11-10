@@ -24,6 +24,7 @@ It gives separate control over the normal and aiming field of view, a camera off
 - [Development method](#development-method)
 - [Compatibility](#compatibility)
 - [AI use](#ai-use)
+- [License](#license)
 - [Installation](#installation)
 
 ---
@@ -190,6 +191,12 @@ Every stored value is checked on load: FOVs are kept within the slider limits, a
 ## AI use
 
 This mod was developed with AI assistance (Claude by Anthropic). All features were designed, tested and verified in game by me.
+
+---
+
+## License
+
+The code is public for reading and learning. All rights reserved; reuse or redistribution requires permission.
 
 ---
 
