@@ -1,0 +1,5 @@
+# keep the script exactly as released (Windows line endings, byte-for-byte)
+*.lua -text
+
+*.jpg binary
+*.png binary

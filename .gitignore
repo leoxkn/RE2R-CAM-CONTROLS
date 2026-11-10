@@ -1,0 +1,10 @@
+# personal settings written by the mod in game
+*.json
+
+# release zips go in GitHub Releases, not the repo
+*.zip
+
+# system files
+Thumbs.db
+desktop.ini
+.DS_Store
