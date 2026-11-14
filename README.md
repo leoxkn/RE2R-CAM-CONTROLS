@@ -172,7 +172,7 @@ Every stored value is checked on load: FOVs are kept within the slider limits, a
 
 ## Development method
 
-- **Measure first.** Every game value and structure in this script was found with small read-only scan scripts that log what the game holds, run in game, and send the results back. Nothing is guessed.
+- **Measure first.** Every game value and structure in this script was found with small read-only scan scripts that log what the game holds. Nothing is guessed.
 - **Scans never write.** Any build that writes into game memory states up front exactly what it writes (see the table above).
 - **Own work.** Everything is reverse engineered for this mod; no other mod's code or methods are used.
 - **Tested in game** across many scenarios before each release.
